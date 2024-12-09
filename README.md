@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kthlzr&label=Profile%20views&color=0e75b6&style=flat" alt="kthlzr" /> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kthlzr&show_icons=true&locale=en&layout=compact" alt="kthlzr" /></p>
+
 - 👨‍💻 All of my projects are available at [https://keithl.netlify.app/](https://keithl.netlify.app/)
 
 - 📫 How to reach me **keithrhenellazaro25@gmail.com**
@@ -20,5 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/keithlazaro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="keithlazaro" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kthlzr&show_icons=true&locale=en&layout=compact" alt="kthlzr" /></p>
