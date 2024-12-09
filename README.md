@@ -5,7 +5,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kthlzr&show_icons=true&locale=en&layout=compact" alt="kthlzr" /></p>
 
-- 👨‍💻 All of my projects are available at [https://keithlzr.netlify.app/](https://keithlzr.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://keithlzr.netlify.app/)
 
 - 📫 How to reach me **keithrhenellazaro25@gmail.com**
 
