@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kthlzr&label=Profile%20views&color=000000&style=flat" alt="kthlzr" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://keithlzr.netlify.app/](https://keithlzr.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://keithlazaro.vercel.app/](https://keithlazaro.vercel.app/)
 
 - 📫 How to reach me **keithrhenellazaro25@gmail.com**
 
